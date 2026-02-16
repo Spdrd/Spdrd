@@ -2,7 +2,6 @@
 
 🎓 **Systems Engineering Student** – Pontificia Universidad Javeriana  
 📊 **Fullstack Developer**  
-🌍 **English B2**  
 📍 Bogotá, Colombia  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-diego-reyes-rod)
