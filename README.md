@@ -1,6 +1,6 @@
 # Juan Diego Reyes
 
-🎓 **Systems Engineering Student** – Pontificia Universidad Javeriana  
+🎓 **Systems Engineering** – Pontificia Universidad Javeriana  
 📊 **Fullstack Developer**  
 📍 Bogotá, Colombia  
 
