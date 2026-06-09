@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 👨‍💻 **Systems Engineering Student**
+- 👨‍💻 **Systems Engineering**
 - 📊 Focused on **Data Analysis, Fullstack Development**
 - 🧠 Strong background in **algorithms, data structures & optimization**
 
